@@ -9,7 +9,15 @@
 .d-block{
     object-fit: cover;
 }
-
-.navbar-toggler{
-    background-color: rgb(254, 228, 228);
+.notic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.notic a{
+    color: #ffffff;
+}
+.notic a:hover{
+    color: #FF5102;
+}
+
